@@ -31,5 +31,5 @@ printf("Original Matrix\n");
         }
         printf("\n");
     }
-     // printf("\nThe sum of elements of the array is %d\n", sum);
+     // printf("\nThe sum of elements of the array is %d\n", sum);          
 }
