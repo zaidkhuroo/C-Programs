@@ -2,6 +2,7 @@
 
 int main()
 {
+//     making an array of size 100
     int a[100],i,n,MAX,MIN;
     printf("Enter size of the array");
     scanf("%d", &n);
