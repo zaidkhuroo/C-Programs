@@ -3,6 +3,7 @@
 #include<string.h>
 void main()
 {
+//     making a file using and using it with the pointer *fp
     FILE *fp=NULL;
     char ch;
 
