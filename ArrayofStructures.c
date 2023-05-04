@@ -2,7 +2,7 @@
 struct names{
     int bold;
     float italic;
-    char under[20];
+    char under[20]; 
 };
 void main(){
 
