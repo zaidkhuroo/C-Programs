@@ -13,7 +13,7 @@ int main()
 }
 int avg(int marks[],int size)
 {
-    int i,a,sum=0,av=0;
+    int i,a,sum=0,av=0; 
     for(i=0;i<size;i++)
     {
         sum=sum+marks[i];
