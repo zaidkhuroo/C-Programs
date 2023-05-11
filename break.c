@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a, i, sum=0;
+    int a, i, sum=0; //setting the value of sum to 0 so the if on adding variable SUM with any number, then the result will be exact
 
     for (i = 1; i <= 5; ++i)
     {
