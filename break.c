@@ -11,6 +11,7 @@ int main()
 
         if (a < 0)
         {
+//             if a is less than 0 the loop will break and the control will move out of the loop
             break;
         }
     
