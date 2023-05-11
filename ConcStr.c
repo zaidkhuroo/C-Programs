@@ -5,6 +5,7 @@ int main()
 {
     char ch[05]={'b','c','d','e'};
     char ch2[03]={'a'};
+//     function to concatenate the strings
     strcat(ch,ch2);
     printf("the concatenated string is %s", ch);
     return 0;
