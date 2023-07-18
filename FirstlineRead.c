@@ -4,7 +4,7 @@
 void main()
 {
     FILE *fp=NULL;      //declaring file pointer as equal to NULL
-    char ch[100];
+    char ch[100]; 
     //char v=0;
 
     fp=fopen("abc.txt","r");        //opening a file and reading it
