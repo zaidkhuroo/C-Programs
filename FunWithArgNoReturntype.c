@@ -5,7 +5,7 @@ void main()
 
     float a, b;
     printf("Enter numbers\n");
-    scanf("%f %f", &a, &b);
+    scanf("%f %f", &a, &b); 
     boss(a, b);
 }
 void boss(float x, float y)
