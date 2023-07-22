@@ -2,7 +2,7 @@
 int zaid();
 int main()
 {
-int s;
+int s; 
 s=zaid();
 printf("\nsum is %d",s);
 }
