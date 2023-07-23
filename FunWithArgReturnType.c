@@ -2,7 +2,7 @@
 int adnan(int, int);
 int main()
 {
-    int a, b, s;
+    int a, b, s; 
     printf("enter two numbers\n");
     scanf("%d %d", &a, &b);
     s = adnan(a, b);
