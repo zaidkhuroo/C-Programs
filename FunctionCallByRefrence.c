@@ -7,7 +7,7 @@ void main(int x, int y)
     printf("x=%d,y=%d\n", x, y);
     fun(&x, &y);
 }
-void fun(int *x, int *y)
+void fun(int *x, int *y) 
 {
     *x = 5;
     *y = 2;
