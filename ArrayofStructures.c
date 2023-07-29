@@ -4,7 +4,7 @@ struct names{
     float italic;
     char under[20]; 
 };
-void main(){
+void main(){ 
 
     struct names s[5];
     
