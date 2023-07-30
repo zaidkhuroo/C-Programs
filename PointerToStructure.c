@@ -3,7 +3,7 @@ struct name{
     int roll;
     float class;
     char name[10];
-};
+}; 
 void main()
 {   
     struct name s={1,12.4,"teddy"}; //inputs to members respectively
