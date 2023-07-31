@@ -4,7 +4,7 @@ int main(){
     int i,n,x[100],temp;
     int size=sizeof(x);
     printf("Enter the size of array\t");
-    scanf("%d",&size);
+    scanf("%d",&size); 
 for(int i=0;i<size;i++)
 {
     printf("Enter the %d Element in array\t", i+1);
