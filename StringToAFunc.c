@@ -3,7 +3,7 @@ void display(char[],char[]);
 void main(){
 
     char x[]="meet me right now";
-    char y[]="call my name";
+    char y[]="call my name"; 
     display(x,y); 
 }
 void display(char x[],char y[])
