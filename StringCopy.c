@@ -2,7 +2,7 @@
 #include<string.h>
 
 int main()
-{
+{ 
     char ch[05]={'b','c','d','e'};
     char ch2[05];
     strcpy(ch2,ch);
