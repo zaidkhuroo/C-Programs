@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int main(){ 
     int a[3];
     int a2[3],i,sum=0;
     int new[3];
