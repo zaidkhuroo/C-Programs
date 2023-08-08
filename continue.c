@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 int main() {
-   int i, a, sum = 0;
+   int i, a, sum = 0; 
 
    for (i = 1; i <= 10; ++i)
     {
