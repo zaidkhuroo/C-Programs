@@ -3,7 +3,7 @@
 #include<string.h>
 void main()
 {
-    FILE *fp=NULL;
+    FILE *fp=NULL; 
     char str[50];
     int i;
     int a= 10;
