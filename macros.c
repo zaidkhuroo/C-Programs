@@ -5,7 +5,7 @@
                     printf("%d is greater", b);
 int main()
 {
-    MAX(3,4);
+    MAX(3,4); 
     return 0;
     
     #undef MAX
