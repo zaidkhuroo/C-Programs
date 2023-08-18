@@ -5,7 +5,7 @@ struct mem
     int a;
     float b;
     char ch[10];
-};
+}; 
 void display(struct mem s);
 void display(struct mem s){
     printf("%s", s.ch);
