@@ -2,7 +2,7 @@
 int main(){
     int a=10,b=20;
     int *p,*q;
-    p=&a;
+    p=&a; 
     q=&b;
     printf("\nValue of a: %d", a);
     printf("\nValue of b: %d", *q);
