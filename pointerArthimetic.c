@@ -2,7 +2,7 @@
 int main(){
     int a[]={1,2,3,4,5,6,7};
     int s;
-    int *p=a;
+    int *p=a; 
     int *q=&a[3];
     printf("q-p value is %d\n",q-p);
     q=q+2;
