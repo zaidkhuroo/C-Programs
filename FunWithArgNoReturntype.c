@@ -2,7 +2,7 @@
 void boss(float, float);
 void main()
 {
-
+ 
     float a, b;
     printf("Enter numbers\n");
     scanf("%f %f", &a, &b); 
